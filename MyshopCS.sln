@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyshopCS", "MyshopCS\MyshopCS.csproj", "{59DB6913-BDD7-4F5B-BAF1-18A44C425070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyshopCS.Tests", "MyshopCS.Tests\MyshopCS.Tests.csproj", "{96DD85D6-3B80-46FF-81A4-080C10FF016F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DB6913-BDD7-4F5B-BAF1-18A44C425070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DB6913-BDD7-4F5B-BAF1-18A44C425070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DB6913-BDD7-4F5B-BAF1-18A44C425070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DB6913-BDD7-4F5B-BAF1-18A44C425070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DD85D6-3B80-46FF-81A4-080C10FF016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DD85D6-3B80-46FF-81A4-080C10FF016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DD85D6-3B80-46FF-81A4-080C10FF016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DD85D6-3B80-46FF-81A4-080C10FF016F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
