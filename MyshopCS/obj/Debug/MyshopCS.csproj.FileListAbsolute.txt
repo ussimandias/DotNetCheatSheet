@@ -1,0 +1,5 @@
+C:\Users\Usman Tarfa\Documents\Visual Studio 2010\Projects\MyshopCS\MyshopCS\bin\MyshopCS.dll
+C:\Users\Usman Tarfa\Documents\Visual Studio 2010\Projects\MyshopCS\MyshopCS\bin\MyshopCS.pdb
+C:\Users\Usman Tarfa\Documents\Visual Studio 2010\Projects\MyshopCS\MyshopCS\obj\Debug\MyshopCS.dll
+C:\Users\Usman Tarfa\Documents\Visual Studio 2010\Projects\MyshopCS\MyshopCS\obj\Debug\MyshopCS.pdb
+C:\Users\Usman Tarfa\documents\visual studio 2010\Projects\MyshopCS\MyshopCS\obj\Debug\MyshopCS.csprojResolveAssemblyReference.cache
