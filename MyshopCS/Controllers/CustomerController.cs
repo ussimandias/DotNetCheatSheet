@@ -11,7 +11,7 @@ namespace MyshopCS.Controllers
     {
         //
         // GET: /Customer/
-
+        
         public ActionResult Index()
         {
             var customers = new CustomerRepository()
